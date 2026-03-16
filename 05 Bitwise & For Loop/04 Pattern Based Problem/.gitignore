@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.obj
+*.o
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE/editor temp files
+.vscode/
+*.log
+*.tmp
